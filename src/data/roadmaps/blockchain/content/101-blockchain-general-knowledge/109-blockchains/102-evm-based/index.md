@@ -8,3 +8,4 @@ Visit the following resources to learn more:
 
 - [What is Ethereum Virtual Machine?](https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/)
 - [Understanding the Ethereum Virtual Machine (EVM): Concepts and Architecture](https://www.youtube.com/watch?v=kCswGz9naZg)
+- [What is the EVM? Ethereum Virtual Machine] (https://www.youtube.com/watch?v=sTOcqS4msoU)
